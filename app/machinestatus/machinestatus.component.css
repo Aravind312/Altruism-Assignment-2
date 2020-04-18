@@ -1,0 +1,100 @@
+div.b
+{
+    position: absolute;
+    left:60px;
+    width: 1150px;
+    height: 240px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+table#t01
+{
+    position: absolute;
+    left:60px;
+    width:280px;
+    top:460px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+table#t01 tr:nth-child(even) {
+    background-color:white;
+    font-size: large;
+  }
+  table#t01 tr:nth-child(odd) {
+   background-color: lightgray;
+   font-size: large;
+  }
+  table#t01 th {
+    background-color: lightgreen;
+    color: white;
+    font-size: large;
+  }
+
+table#t02
+{
+    position: absolute;
+    left:360px;
+    width:280px;
+    top:460px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+table#t02 tr:nth-child(even) {
+    background-color:white;
+    font-size: large;
+  }
+  table#t02 tr:nth-child(odd) {
+   background-color: lightgray;
+   font-size: large;
+  }
+  table#t02 th {
+    background-color: lightpink;
+    color: white;
+    font-size: large;
+  }
+  
+table#t03
+{
+    position: absolute;
+    left:660px;
+    width:280px;
+    top:460px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+table#t03 tr:nth-child(even) {
+    background-color:white;
+    font-size: large;
+  }
+  table#t03 tr:nth-child(odd) {
+   background-color: lightgray;
+   font-size: large;
+  }
+  table#t03 th {
+    background-color: lightgray;
+    color: white;
+    font-size: large;
+  }
+  
+table#t04
+{
+    position: absolute;
+    left:960px;
+    width: 254px;
+    top:460px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+table#t04 tr:nth-child(even) {
+    background-color:white;
+    font-size: large;
+  }
+  table#t04 tr:nth-child(odd) {
+   background-color: lightgray;
+   font-size: large;
+  }
+  table#t04 th {
+    background-color: lightpink;
+    color: white;
+    font-size: large;
+  }

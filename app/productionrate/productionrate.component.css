@@ -1,0 +1,127 @@
+div.a {
+  position: absolute;
+  left: 60px;
+  top: 160px;
+  background-color: #21618c;
+  height: 220px;
+  width: 600px;
+  color: white;
+}
+div.b {
+  position: absolute;
+  left: 700px;
+  top: 160px;
+  width: 500px;
+  background-color: rgb(21, 25, 29);
+  color: white;
+}
+div.c {
+  position: absolute;
+  left: 830px;
+  top: 390px;
+  width: 800px;
+  height: 340px !important;
+}
+div.d {
+  position: absolute;
+  left: 60px;
+  top: 390px;
+  background-color: black;
+  height: 240px;
+  width: 740px;
+  color: white;
+}
+table#t01 tr:nth-child(even) {
+  background-color: #98afc7;
+  font-size: 18px;
+}
+table#t01 tr:nth-child(odd) {
+  background-color: #cae1f9;
+  font-size: 18px;
+}
+table#t01 th {
+  background-color: darkblue;
+  color: white;
+  font-size: 20px;
+}
+button.b01 {
+  background-color: blue;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 6px 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1.5px;
+  cursor: pointer;
+}
+
+button.b02 {
+  background-color: lightgray;
+  border-radius: 8px;
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1.5px;
+  cursor: pointer;
+}
+
+button.b03 {
+  background-color: lightgray;
+  border-radius: 8px;
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1.5px;
+  cursor: pointer;
+}
+
+button.b04 {
+  background-color: lightgray;
+  border-radius: 8px;
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1.5px;
+  cursor: pointer;
+}
+
+button.b05 {
+  background-color: lightgray;
+  border-radius: 1px;
+  border: none;
+  color: black;
+  padding: 8px 14px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1.5px;
+  cursor: pointer;
+}
+span.grey {
+  color: white;
+  background-color: lightgray;
+}
+span.greys {
+    color: white;
+    background-color: gray;
+  }
+canvas#monitoringChart {
+  width: 740px !important;
+  height: 160px !important;
+}
+
+canvas#downtime{
+    width: 500px !important;
+    height: 200px !important;
+  }

@@ -1,0 +1,102 @@
+div.a
+{
+    background-color: #21618C ;
+    left: 10px;
+    top:160px;
+    height: 210px;
+    width: 500px;
+    position: absolute;
+    color: white;
+   
+}
+div.b
+{
+      position: absolute;
+      top: 160px;
+      left: 520px;
+      width: 200px;
+      height: 194px;
+      background-color: green;
+      font-size:14px;
+}
+
+div.c
+{
+      position: absolute;
+      top: 160px;
+      left: 720px;
+      width: 200px;
+      height: 194px;
+      background-color: rgb(57, 156, 57);
+      font-size:14px;
+}
+
+div.d
+{
+      position: absolute;
+      top: 160px;
+      left: 920px;
+      width: 200px;
+      height: 194px;
+      background-color: yellow;
+      font-size:14px;
+}
+
+div.e
+{
+      position: absolute;
+      top: 160px;
+      left: 1120px;
+      width: 178px;
+      height: 194px;
+      background-color: red;
+      font-size:14px;
+}
+div.aa
+{
+      background-color:#21618C ;
+      height: 220px;
+      width: 500px;
+      position: absolute;
+      top: 380px;
+      left: 10px;
+      color: white;
+
+}
+div.bb
+{  border: 2px solid lightgray;
+     border-radius: 10px;
+     position: absolute;
+     left: 560px;
+     top:380px;
+     width: 340px;
+}
+di.ca
+{
+      height: 50px;
+}
+div.cc
+{  border: 2px solid lightgray;
+     border-radius: 10px;
+     position: absolute;
+     left: 960px;
+     top:380px;
+     width: 280px;
+}
+h4
+{
+      text-align: center;
+}
+p.blue
+{
+      color: blue;
+}
+span.text-success
+{
+      color:green;
+}
+canvas#achivementVsTarget2
+{
+      width: 260px !important;
+      height: 80px !important;
+}

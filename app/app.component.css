@@ -1,0 +1,59 @@
+div.a
+{
+    background-color:lightgray;
+    font-size: 10px;
+    text-align: right;
+}
+div.b {
+    position: absolute;
+    font-size: 10px;
+    top: 46px;
+    left: 0;
+    color: black;
+  } 
+div.c
+{
+    font-size: 10px;
+    text-align: right;
+}
+button
+{
+    background-color: white;
+    border-radius: 12px;
+    border: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 3px 1.5px;
+    cursor: pointer;
+}
+button.a
+{
+    background-color: blue;
+    color: white;
+}
+button.aa
+{
+    background-color: orange;
+    color: white;
+}
+
+button.bb
+{
+    background-color: darkkhaki;
+    color: white;
+}
+
+button.cc
+{
+    background-color: darkslategrey;
+    color:yellow;
+}
+
+button.dd
+{
+    background-color:green;
+    color: white;
+}

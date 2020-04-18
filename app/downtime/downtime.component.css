@@ -1,0 +1,50 @@
+div.a {
+  position: absolute;
+  left: 20px;
+  top: 160px;
+  background-color: #21618c;
+  height: 220px;
+  width: 600px;
+  color: white;
+}
+div.b {
+  position: absolute;
+  left: 640px;
+  top: 140px;
+  height: 50px;
+  width: 1000px;
+}
+div.c {
+  position: absolute;
+  left: 640px;
+  top: 390px;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+}
+div.d {
+  position: absolute;
+  left: 20px;
+  top: 390px;
+  background-color: rgb(21, 25, 29);
+  color: white;
+}
+table#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+  background-color: #fff;
+}
+span.grey {
+  background-color: lightgray;
+  padding: 1%;
+}
+
+canvas#downtime {
+  width: 600px !important;
+  height: 190px !important;
+}
+
+canvas#monitoringChart {
+    width: 600px !important;
+    height: 190px !important;
+  }
